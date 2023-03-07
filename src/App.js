@@ -1,4 +1,4 @@
-import "./App.css";
+import "./Styles/App.css";
 import { BrowserRouter, Router, Route } from "react-router-dom";
 
 function App() {
