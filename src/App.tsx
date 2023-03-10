@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Header title={title}/>
       <Section title="Drugi naslov">This is my section</Section>
-      <Counter setCount={setCount}>Count is {count}<Counter/>
+      <Counter setCount={setCount}>Count is {count}</Counter>
     </div>
   );
 }
