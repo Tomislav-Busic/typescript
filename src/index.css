@@ -3,3 +3,8 @@
   padding: 0;
     box-sizing: border-box;
 }
+
+
+h1, p, button{
+  padding: 1rem 0;
+}
